@@ -1,0 +1,16 @@
+--2021-08-22 14:23:07--  https://download.mozilla.org/?product=firefox-latest-ssl
+Resolving download.mozilla.org (download.mozilla.org)... 34.197.189.190, 52.20.15.117, 54.167.178.227
+Connecting to download.mozilla.org (download.mozilla.org)|34.197.189.190|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.0.1/win32/en-US/Firefox%20Setup%2091.0.1.exe [following]
+--2021-08-22 14:23:07--  https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.0.1/win32/en-US/Firefox%20Setup%2091.0.1.exe
+Resolving download-installer.cdn.mozilla.net (download-installer.cdn.mozilla.net)... 143.204.212.60, 2600:9000:214f:f800:e:19d6:1546:5981, 2600:9000:214f:c00:e:19d6:1546:5981, ...
+Connecting to download-installer.cdn.mozilla.net (download-installer.cdn.mozilla.net)|143.204.212.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54198352 (52M) [application/x-msdos-program]
+Saving to: ‘index.html?product=firefox-latest-ssl’
+
+index.html?product=firefox-latest-ssl       0%[                                                                                      ]       0  --.-KB/s               index.html?product=firefox-latest-ssl      40%[=================================>                                                    ]  20.89M   104MB/s               index.html?product=firefox-latest-ssl      84%[=======================================================================>              ]  43.58M   109MB/s               index.html?product=firefox-latest-ssl     100%[=====================================================================================>]  51.69M   107MB/s    in 0.5s    
+
+2021-08-22 14:23:08 (107 MB/s) - ‘index.html?product=firefox-latest-ssl’ saved [54198352/54198352]
+

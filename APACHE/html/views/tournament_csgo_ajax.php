@@ -1,0 +1,1 @@
+<?= file_get_contents("http://3.126.190.191:8000/ajax/data/".$data_get)  ?>

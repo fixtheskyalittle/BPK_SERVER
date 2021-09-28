@@ -1,0 +1,1 @@
+<?= file_get_contents("https://api.pandascore.co/csgo/matches?token=63ye5L5NRFZlLS5rmPwqBMqYR97r6zqGytSmihJTDPhrHhRnzlU&filter[id]=551934") ?>
